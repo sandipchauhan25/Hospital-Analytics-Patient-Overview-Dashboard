@@ -52,6 +52,6 @@ The dashboard visualizes key metrics including:
 
 ## 📷 Dashboard Preview
 
-(https://github.com/user-attachments/assets/f2b725d7-156f-4595-bba5-884f5cff2b9d)
+![Hospital Analytics Dashboard](https://github.com/user-attachments/assets/f2b725d7-156f-4595-bba5-884f5cff2b9d)
 
 
