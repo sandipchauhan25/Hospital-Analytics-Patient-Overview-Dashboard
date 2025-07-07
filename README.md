@@ -55,12 +55,3 @@ The dashboard visualizes key metrics including:
 ![Hospital Analytics Dashboard]![Dashboard](https://github.com/user-attachments/assets/f2b725d7-156f-4595-bba5-884f5cff2b9d)
 
 
----
-
-## 📁 Folder Structure
-
-```bash
-📦Hospital_Analytics_Project
- ┣ 📊 Hospital_Analytics.pbix
- ┣ 🖼️ bae11313-6b32-dashboard.png
- ┗ 📄 README.md
